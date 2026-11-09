@@ -17,7 +17,7 @@ Aqui compartilho meus projetos e aprendizados em desenvolvimento, análise de da
 | Área | Tecnologias e ferramentas |
 | --- | --- |
 | Salesforce | Apex · LWC · Salesforce Flow · SOQL · Experience Cloud |
-| Dados e Business Intelligence | Power BI · Dashboards · Visualização de dados · Excel |
+| Dados e Business Intelligence | Power BI · SQL · python · Dashboards · Visualização de dados · Excel |
 | IA aplicada | Python · Gemini API · RAG estruturado |
 | Desenvolvimento web | JavaScript · React · HTML · CSS · Material UI |
 | Outras ferramentas | Java · Swing · Git · Docker · Oracle Cloud Infrastructure |
