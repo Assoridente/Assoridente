@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Ana Luisa Silva — Salesforce, inteligência artificial e desenvolvimento web" width="100%" />
+  <img src="assets/banner.svg" alt="Ana Jesus — Salesforce, dados e negócios" width="100%" />
 </p>
 
-# Olá, eu sou a Ana Luisa 👋
+# Olá, eu sou a Ana Jesus 👋
 
-**Desenvolvedora Salesforce**, com foco em Apex, Lightning Web Components, Salesforce Flow e SOQL.
+**Salesforce, dados e negócios.** Meu foco é atuar como ponte entre as necessidades do negócio e o desenvolvimento de soluções.
 
-Gosto de transformar ideias em aplicações úteis e de aprender construindo. Aqui compartilho projetos de inteligência artificial, desenvolvimento web e estudos em Java.
+Quero traduzir perguntas e desafios do negócio em soluções que façam sentido para quem as utiliza: conectar processos no Salesforce, analisar dados e construir dashboards em Power BI que ajudem a comunicar resultados e apoiar decisões.
+
+Aqui compartilho meus projetos e aprendizados em desenvolvimento, análise de dados e IA aplicada.
 
 [LinkedIn](https://www.linkedin.com/in/ana-jesus-40900b215/) · [Projetos](https://github.com/Assoridente?tab=repositories)
 
@@ -15,7 +17,8 @@ Gosto de transformar ideias em aplicações úteis e de aprender construindo. Aq
 | Área | Tecnologias e ferramentas |
 | --- | --- |
 | Salesforce | Apex · LWC · Salesforce Flow · SOQL · Experience Cloud |
-| IA e dados | Python · Gemini API · RAG estruturado · Excel |
+| Dados e Business Intelligence | Power BI · Dashboards · Visualização de dados · Excel |
+| IA aplicada | Python · Gemini API · RAG estruturado |
 | Desenvolvimento web | JavaScript · React · HTML · CSS · Material UI |
 | Outras ferramentas | Java · Swing · Git · Docker · Oracle Cloud Infrastructure |
 
@@ -30,6 +33,8 @@ Gosto de transformar ideias em aplicações úteis e de aprender construindo. Aq
 
 ## Meu foco
 
-Desenvolver soluções no ecossistema Salesforce e ampliar meus conhecimentos em IA aplicada, dados e nuvem.
+Conectar **desenvolvimento, dados e contexto de negócio**. Busco entender a necessidade por trás de uma demanda e traduzi-la em soluções no Salesforce, análises e dashboards que tornem a informação mais clara e útil.
+
+Estou direcionando meu desenvolvimento profissional para essa integração entre Salesforce e dados, com Power BI e IA como ferramentas para explorar e comunicar informações.
 
 Os repositórios indicam o estágio de cada projeto, suas funcionalidades e como executar o código.
