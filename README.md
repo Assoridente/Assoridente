@@ -28,8 +28,8 @@ Aqui compartilho meus projetos e aprendizados em desenvolvimento, análise de da
 | --- | --- | --- |
 | [Preço em Foco](https://github.com/Assoridente/precoemfoco) | Agente que consulta índices do IBGE e apresenta as fontes de cada resposta. Inclui evidências de deploy na OCI. | Python · Gemini · Docker |
 | [Tarefas e Foco](https://github.com/Assoridente/todo-list-app-react) | Lista de tarefas com sessões de concentração, temporizador e painel de inspiração. | React · Material UI |
-| [Lista de Tarefas Web](https://github.com/Assoridente/Projeto-trilha-todolist) | Estudo de manipulação do DOM, cadastro de tarefas e alternância de tema. | HTML · CSS · JavaScript |
-| [Biblioteca em Java](https://github.com/Assoridente/ProjetoDeExtensaoJAVA-interface-inicial) | Protótipo acadêmico de interface de biblioteca, desenvolvido em grupo. | Java · Swing · NetBeans |
+| [Dashboard RCI · Embratur](https://github.com/Assoridente/Dashboard-RCI) | Dashboard mensal de entregas, falhas e ausências, com calendário de dias úteis, modelo de dados documentado e fechamentos versionados. | PostgreSQL · SQL · Apache Superset |
+| [Projeto RH](https://github.com/Assoridente/Projeto-RH) | Notebook de qualidade de dados e simulação explicável de programas de desenvolvimento, com dados sintéticos, gráficos e testes. | Python · pandas · NumPy · Matplotlib |
 
 ## Meu foco
 
